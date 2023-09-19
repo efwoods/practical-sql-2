@@ -11,4 +11,4 @@ Introduces PostgreSQL, the pgAdmin user interface, and the code for loading a si
 #### Order by the selected column (e.g. 1 is last_name here)
 ```
 SELECT last_name, first_name, salary FROM teachers ORDER BY 1 DESC;
-```
+``` 

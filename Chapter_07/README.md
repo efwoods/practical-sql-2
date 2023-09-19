@@ -7,4 +7,6 @@
 
 Explains how to query multiple, related tables by joining them on key columns. You’ll learn how and when to use different types of joins.
 
+### Notes:
+The inner join will show results from both tables where the rows match
 
